@@ -16,9 +16,7 @@
 title: Belief Sparks
 email: kenstaplesonline@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  Belief Sparks is a space designed to ignite thoughtful conversation about God, Christianity, Roman Catholicism, and faith in today’s world. Whether you're deeply rooted in your beliefs, exploring Christianity for the first time, or reconsidering a return to faith, Belief Sparks invites open dialogue, honest questions, and meaningful reflection for all spiritual journeys.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "kenstaplesonline.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 
